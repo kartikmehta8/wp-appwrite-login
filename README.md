@@ -23,7 +23,9 @@ The **Appwrite Login Plugin** is a WordPress plugin that integrates Appwrite aut
 
 ### Appwrite Login Button
 
-![Login](./assets/images/login.png)
+<p align="center">
+  <img src="/assets/images/login.png" alt="login" />
+</p>
 
 Once the plugin is enabled and configured:
 - A **"Use Appwrite Credentials"** button will appear on the WordPress login page.
